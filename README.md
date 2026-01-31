@@ -126,19 +126,6 @@ Full e-commerce solution with Tebex integration for my Hytale server.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=killerSkull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae&icon_color=38bdae&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerSkull&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae&text_color=c9d1d9" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=killerSkull&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=38bdae&fire=ff6b6b&currStreakLabel=38bdae" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🎮 Managing my **Hytale server** and **web store**
