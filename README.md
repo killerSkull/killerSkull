@@ -17,13 +17,14 @@
 const killerSkull = {
   name: "Fernando",
   role: "Full Stack Developer",
-  passion: ["Gaming Tools", "Web Development", "Mobile Apps"],
+  passion: ["Hytale", "Gaming Tools", "Web Development", "Mobile Apps"],
   currentFocus: "Building tools for gaming content creators",
+  hytaleServer: "Online 🟢",
   funFact: "I turn gaming ideas into reality ✨",
 };
 ```
 
-I'm a passionate developer focused on creating **modern web applications**, **gaming tools**, and **mobile apps**. I love building solutions that help content creators and gamers enhance their workflow.
+I'm a passionate developer and **Hytale server owner** focused on creating **modern web applications**, **gaming tools**, and **mobile apps**. I love building solutions that help content creators and gamers enhance their workflow.
 
 ---
 
@@ -40,13 +41,14 @@ I'm a passionate developer focused on creating **modern web applications**, **ga
 ### Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1b27)
 ![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black&labelColor=1a1b27)
 
 ### Mobile & Game Dev
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1b27)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=1a1b27)
 
 </div>
 
@@ -92,30 +94,31 @@ Personal messaging application built with modern technologies.
 
 ### 🎮 [SuperSimple2DKit](https://github.com/killerSkull/SuperSimple2DKit)
 
-**Unity 2D Game Starter Kit**
+**2D Game Starter Kit**
 
-A starter kit to jump start 2D game development in Unity.
+A starter kit to jump start 2D game development.
 
-- �️ Ready-to-use mechanics
-- � Well documented
-- � Quick prototyping
+- 🕹️ Ready-to-use mechanics
+- 📚 Well documented
+- 🚀 Quick prototyping
 
-`Unity` `C#`
+`Godot` `GDScript`
 
 </td>
 <td width="50%">
 
-### � [Compustart](https://github.com/killerSkull/Compustart)
+### 🛒 HytaleLand Web Store
 
-**Remote Start Installation**
+**Hytale Server Web Store**
 
-Documentation and tools for remote start systems.
+Full e-commerce solution with Tebex integration for my Hytale server.
 
-- � Installation guides
-- � Technical docs
-- 🚀 Easy setup
+- 🛍️ Complete shopping cart
+- 💳 Tebex checkout integration
+- 🎮 Hytale username auth
+- ✨ Premium gaming aesthetic
 
-`Documentation`
+`React` `Tailwind CSS` `Tebex API`
 
 </td>
 </tr>
@@ -138,9 +141,9 @@ Documentation and tools for remote start systems.
 
 ## 🎯 Current Focus
 
+- 🎮 Managing my **Hytale server** and **web store**
 - 🔨 Building **tools for gaming content creators**
-- 🎮 Developing **gaming-related projects**
-- � Creating **mobile applications**
+- 📱 Creating **mobile applications**
 - 🌱 Learning **new technologies**
 
 ---
@@ -165,4 +168,3 @@ Documentation and tools for remote start systems.
 _"Turning gaming ideas into reality, one line of code at a time"_
 
 </div>
-
